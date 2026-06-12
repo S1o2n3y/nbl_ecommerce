@@ -364,7 +364,8 @@
     }
 
   body:not(.homepage2)  .logo-holder{
-        text-align: center;
+        display: flex;
+        justify-content: center;
     }
   body:not(.homepage2)  .top-menu.cart-menu {
         margin-top: -10px;
@@ -380,8 +381,11 @@
   body:not(.homepage2)  .cart-holder {
         text-align: center;
     }
+
+
+
   body:not(.homepage2)  .top-row .logo {
-        margin-left: 160px;
+        margin-left: -100px;
         padding-top: 10px;
         text-align: center;
     }
@@ -405,6 +409,7 @@ text-align: center;
     .section-homepage-subscribe .offer-text{
         display: none;
     }
+    
 }
 
 @media all and (max-width:405px) {

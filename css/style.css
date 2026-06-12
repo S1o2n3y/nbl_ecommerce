@@ -106,6 +106,8 @@ h5,
     margin-left: 5px;
     width: 100px;
     height: auto;
+    align-items: center;
+    justify-content: center;
 }
 .homepage2  .top-row .logo {
     margin-left: 0px;
