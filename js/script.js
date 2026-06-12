@@ -1,7 +1,6 @@
-var zoom = 15;
-var latitude = 41.040585;
-
-var longitude = 28.970257;
+var zoom = 14;
+var latitude = 4.0483;
+var longitude = 9.7043;
 
 
 
